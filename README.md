@@ -17,4 +17,15 @@ This will require your Google/Microsoft Authenticator</p>
 <p>4. Upload User's Profile Picture </p>
 <p>5. Products Listings, Catalogs pagination and Product Search</p>
 
+For Testing:
+1. Setup, MSSQL Server, create database
+2. Install all libraries
+   pip install -r requirements.txt
+3. Change Database connection strings
+4. Migrate
+5. Run Server : python manage.py runserver
+
+
+
+
 
